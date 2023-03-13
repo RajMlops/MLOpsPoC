@@ -1,0 +1,4 @@
+{
+"hp1" : {"max_bin":250,"learning_rate":0.03,"num_iterations":150,"min_gain_to_split":1,"max_depth":20},
+"hp2" : {"max_bin":250,"learning_rate":0.13,"num_iterations":150,"min_gain_to_split":0.3,"max_depth":20}
+}

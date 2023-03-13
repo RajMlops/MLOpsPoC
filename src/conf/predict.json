@@ -1,0 +1,6 @@
+[
+{"PassengerId":"0013_01","HomePlanet":"Earth","CryoSleep":"TRUE","Cabin":"G/3/S","Destination":"TRAPPIST-1e","Age":"27","VIP":"FALSE","RoomService":0,"FoodCourt":0,"ShoppingMall":0,"Spa":0,"VRDeck":0,"Name":"Nelly Carsoning"},
+{"PassengerId":"0018_01","HomePlanet":"Earth","CryoSleep":"FALSE","Cabin":"F/4/S","Destination":"TRAPPIST-1e","Age":"19","VIP":"FALSE","RoomService":0,"FoodCourt":9,"ShoppingMall":0,"Spa":2823,"VRDeck":0,"Name":"Lerome Peckers"},
+{"PassengerId":"0019_01","HomePlanet":"Europa","CryoSleep":"TRUE","Cabin":"C/0/S","Destination":"55 Cancri e","Age":"31","VIP":"FALSE","RoomService":0,"FoodCourt":0,"ShoppingMall":0,"Spa":0,"VRDeck":0,"Name":"Sabih Unhearfus"},
+{"PassengerId":"0021_01","HomePlanet":"Europa","CryoSleep":"FALSE","Cabin":"C/1/S","Destination":"TRAPPIST-1e","Age":"38","VIP":"FALSE","RoomService":0,"FoodCourt":6652,"ShoppingMall":0,"Spa":181,"VRDeck":585,"Name":"Meratz Caltilter"}
+]

@@ -1,0 +1,12 @@
+numpy
+pandas
+#os
+matplotlib
+seaborn
+scikit-learn
+lazypredict
+plotly
+nbformat==5.1.2
+notebook
+pycodestyle
+flask

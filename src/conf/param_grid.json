@@ -1,0 +1,3 @@
+{
+    "param_grid" : {"max_bin": [150, 250],"learning_rate": [0.13, 0.03],"num_iterations": [150, 300],"min_gain_to_split": [0.1, 1],"max_depth": [10, 20]}
+}
